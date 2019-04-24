@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.bbs.nga.cn	TRUE	/	FALSE		lastpath	/thread.php?fid=-7
+.bbs.nga.cn	TRUE	/	FALSE		lastvisit	1555345099
+.nga.cn	TRUE	/	FALSE	1555381100	ngaPassportUid	guest05cb4aecb250de
